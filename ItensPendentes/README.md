@@ -1,0 +1,1 @@
+# Esta pasta deve ser usada para guardar a lista de requesitos não atendidos do projeto que ficarão para a próxima versão
